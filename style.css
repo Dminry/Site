@@ -26,7 +26,7 @@ background: #ccccff;
 }
 h1 {color:red; 
 font-size:125px;
-border:2px solid white;
+border:2px dashed white;
 border-radius:25px;
 text-align:center;
 }
